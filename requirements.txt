@@ -1,0 +1,7 @@
+pandas==0.20.1
+matplotlib==2.0.0
+numpy==1.14
+sklearn==0.19.1
+nltk==3.2.1
+scipy==0.19.1
+wordcloud
