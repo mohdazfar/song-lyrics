@@ -6,5 +6,6 @@ Then do `pip install -r requirements.txt`
 
 And then on the command line type
 
-```$ python main.py 
+``` 
+$ python main.py 
 ```
